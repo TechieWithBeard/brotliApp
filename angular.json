@@ -23,6 +23,7 @@
                 "externals": "replace"
               }
             },
+            
             "outputPath": "dist/brotli-app",
             "index": "src/index.html",
             "main": "src/main.ts",
